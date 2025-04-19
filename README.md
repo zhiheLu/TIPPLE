@@ -3,6 +3,7 @@
 This repository provides the official PyTorch implementation of our TIP 2025 paper:    
 
 > Task-to-Instance Prompt Learning for Vision-Language Models at Test Time
+>
 > Authors: Zhihe Lu*, Jiawang Bai*, Xin Li, Zeyu Xiao, Xinchao Wang
 
 For more details, please check out our [<ins>**paper**</ins>](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10925517). 
@@ -18,10 +19,10 @@ We propose a novel test-time prompt learning method of VLMs, called Task-to-Inst
 ## Prerequisites
 
 ### Installation
-For installation and other package requirements, please follow the instructions detailed in [INSTALL.md](../docs/INSTALL.md).
+For installation and other package requirements, please follow the instructions detailed in [INSTALL.md](./docs/INSTALL.md).
 
 ### Data Preparation 
-Please follow the instructions at [DATASETS.md](../docs/DATASETS.md) to prepare all datasets.
+Please follow the instructions at [DATASETS.md](./docs/DATASETS.md) to prepare all datasets.
 
 
 ## Run TIPPLE
